@@ -14,7 +14,7 @@
 
 在main.cpp中找到connectsql函数, 修改自己对应信息
 
-![image-20240307143732633](../../img/REDEMEassets/image-20240307143732633.png)
+![image-20240307143732633](./img/REDEMEassets/image-20240307143732633.png)
 
 ### 编译项目
 
@@ -32,4 +32,4 @@ cl main.cpp /EHsc /Fe:server.exe
 
 ## 展示
 
-![image-20240307145913895](../../img/REDEMEassets/image-20240307145913895.png)
+![image-20240307145913895](./img/REDEMEassets/image-20240307145913895.png)
