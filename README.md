@@ -12,9 +12,15 @@
 
 ### 修改连接信息
 
-在main.cpp中找到connectsql函数, 修改自己对应信息
+在main.cpp中找到connectsql函数, 修改自己对应数据库信息
 
 ![image-20240307143732633](./img/REDEMEassets/image-20240307143732633.png)
+
+修改监听端口
+
+![image-20240307154435370](img/READMEassets/image-20240307154435370.png)
+
+使用自己想要监听的端口  例如 把10007 改成8080
 
 ### 编译项目
 
